@@ -11,10 +11,10 @@ The streamer is called:
 The stream community members are called:
 The stream currency is called:
 The streamer can be found under the following socials and links:
-TikTok:
-Youtube:
-Twitter:
-Facebook:
-Instagram:
+TikTok: libris_tt.
+Youtube: libris_yt.
+Twitter: libris_tw.
+Facebook: libris_fb.
+Instagram: libris_ins.
 
 Please answer now the prompt of the viewer:
